@@ -1,0 +1,26 @@
+EventID: 4625
+Account: Administrator
+SourceIP: 192.168.1.100
+Status: Failed Logon
+
+EventID: 4625
+Account: Administrator
+SourceIP: 192.168.1.100
+Status: Failed Logon
+
+EventID: 4625
+Account: Administrator
+SourceIP: 192.168.1.100
+Status: Failed Logon
+
+EventID: 4624
+Account: Thabo
+SourceIP: 192.168.1.10
+Status: Successful Logon
+
+EventID: 4720
+Account Created: testuser
+
+EventID: 4672
+Special Privileges Assigned
+User: Administrator

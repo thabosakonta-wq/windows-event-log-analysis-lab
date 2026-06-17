@@ -1,0 +1,28 @@
+WINDOWS EVENT LOG INVESTIGATION REPORT
+
+Date: 2026-06-17
+
+====================================
+
+Failed Logons: 3
+
+Privileged Activity Events: 1
+
+Account Creation Events: 1
+
+====================================
+
+Severity: HIGH
+
+Findings:
+
+- Multiple failed logon attempts observed
+- Privileged activity detected
+- New account creation detected
+
+Recommendations:
+
+- Review authentication logs
+- Verify legitimacy of created accounts
+- Investigate privileged activity
+- Monitor for further suspicious events
